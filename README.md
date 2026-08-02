@@ -1,8 +1,8 @@
 ### Hi, I'm Abboud
 
-I'm based in Stockholm, learning React by building small, complete apps rather than working through tutorials in isolation — a to-do list, a bill splitter, a movie search app, a packing list. Each one is a rep on a specific skill: controlled forms, lifting state, component composition, working with an external API.
+I'm based in Stockholm, Building complete web applications from scratch while integrating modern AI-driven developer workflows. Focused on engineering velocity, clean systems, and shipping functional code. Seeking entry-level software engineering roles!
 
-Currently looking for a junior developer role.
+
 
 **A few projects worth a look:**
 
